@@ -21,7 +21,7 @@
 <img src="https://github.com/user-attachments/assets/f5d657d8-6068-4026-a8af-222e8f820ce0" width ="500" hieght ="300" >
 <img src="https://github.com/user-attachments/assets/1f791e59-ae31-447e-ae85-7b5ff15fcf8d" width ="1000" hieght ="300" >
 
-#### Search with part of Name
+#### Search for part of Name
 <img src="https://github.com/user-attachments/assets/5067d33b-a5bd-471e-9aae-f41ae1506bb5" width ="500" hieght ="300" >
 <img src="https://github.com/user-attachments/assets/ff48fdfa-c42d-4ac0-90f3-c82fe62597c7" width ="500" hieght ="300" >
 
