@@ -5,8 +5,8 @@
 
 ### some Actions from District's Screen 
 <div>
-<img src = "https://github.com/user-attachments/assets/26e74039-45ec-40e3-aa1a-f7e58715a6c6" width ="500" hieght ="300" >
-<img src ="https://github.com/user-attachments/assets/20d4c963-51c9-476a-88e9-497c82dff1fd" width ="500" hieght ="300" >
+<img src = "https://github.com/user-attachments/assets/26e74039-45ec-40e3-aa1a-f7e58715a6c6" width ="400" hieght ="300" >
+<img src ="https://github.com/user-attachments/assets/20d4c963-51c9-476a-88e9-497c82dff1fd" width ="400" hieght ="300" >
   <img src="https://github.com/user-attachments/assets/f25a490a-d61f-4bc9-ac3d-e6dca3af2490"  >
 </div>
 
