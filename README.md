@@ -17,13 +17,13 @@
   </div>
 
   ### some Actions from Martyr's Screen
-<img src="https://github.com/user-attachments/assets/656f4db4-524d-4861-a697-eb6c371e8821" width ="500" hieght ="300" >
-<img src="https://github.com/user-attachments/assets/f5d657d8-6068-4026-a8af-222e8f820ce0" width ="500" hieght ="300" >
+<img src="https://github.com/user-attachments/assets/656f4db4-524d-4861-a697-eb6c371e8821" width ="400" hieght ="300" >
+<img src="https://github.com/user-attachments/assets/f5d657d8-6068-4026-a8af-222e8f820ce0" width ="100" hieght ="300" >
 <img src="https://github.com/user-attachments/assets/1f791e59-ae31-447e-ae85-7b5ff15fcf8d" width ="1000" hieght ="300" >
 
 #### Search for part of Name
-<img src="https://github.com/user-attachments/assets/5067d33b-a5bd-471e-9aae-f41ae1506bb5" width ="500" hieght ="300" >
-<img src="https://github.com/user-attachments/assets/ff48fdfa-c42d-4ac0-90f3-c82fe62597c7" width ="500" hieght ="300" >
+<img src="https://github.com/user-attachments/assets/5067d33b-a5bd-471e-9aae-f41ae1506bb5" width ="400" hieght ="300" >
+<img src="https://github.com/user-attachments/assets/ff48fdfa-c42d-4ac0-90f3-c82fe62597c7" width ="400" hieght ="300" >
 
 ####  Save Data to the same file or to a new file
 <img src="https://github.com/user-attachments/assets/d3591a4b-e8b8-45c0-a59c-d299ad987b0b" width ="1000" hieght ="300">
